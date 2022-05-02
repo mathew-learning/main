@@ -1,0 +1,90 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!-- RuleCat.xml - List of cars ready to sell -->
+<!DOCTYPE cars_for_sale SYSTEM "cars.dtd">
+<RuleConfig>
+   <Entity Name="NAME_1">
+      <CommonRules>
+         <Rule></Rule>
+      </CommonRules>
+      <Fields>
+         <Field>
+            <Rules>
+               <Rule></Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,1000)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,2000)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+      </Fields>
+   </Entity>
+   <Entity Name="NAME_2">
+      <CommonRules>
+         <Rule></Rule>
+      </CommonRules>
+      <Fields>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,455)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,1000)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,2000)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+         <Field>
+            <Rules>
+               <Rule>SIZE(1,255)</Rule>
+            </Rules>
+         </Field>
+      </Fields>
+   </Entity>
+
+</RuleConfig>

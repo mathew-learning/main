@@ -1,0 +1,21 @@
+# sample yaml data
+country: india
+region: south
+sl_no: [1, 2, 3, 4]
+
+user_data:
+  name: controller
+  description: Cloud controller node
+  password: password
+  username:
+  network: airtel
+  state: AP
+
+game_data:
+  name: SA
+  company: Rstar
+  Year: 2017
+  update: []
+
+
+
